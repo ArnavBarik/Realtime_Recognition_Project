@@ -1,0 +1,15 @@
+.div1{
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    font-size: 23px;
+}
+.div2{
+    float: none;
+    background: white;
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+    color: black;
+    border-radius: 20px;
+    padding: 5px;
+}
