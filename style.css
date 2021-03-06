@@ -13,3 +13,21 @@
     border-radius: 20px;
     padding: 5px;
 }
+.para{
+    box-shadow: 5px 5px 5px grey;
+    font-size: 15px;
+}
+.copyright_footer{
+    background-color: lightblue;
+    line-height: 3;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 90px;
+}
